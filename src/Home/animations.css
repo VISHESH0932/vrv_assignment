@@ -1,0 +1,13 @@
+/* 
+@keyframes enlargeShrink {
+  0%, 100% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+}
+
+.img-animation {
+  animation: enlargeShrink 3s ease-in-out infinite;
+} */
